@@ -1,0 +1,9 @@
+Grouping Tags
+
+<header></header> = cabeçalho
+<nav></nav> = menu (links)
+<main></mais> = título ( conteúdo principal )
+<section></section> = local
+<article></article> = conteúdo da section
+<aside></aside> = quer saber mais?
+<footer></footer> = rodapé (final)
